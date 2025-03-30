@@ -74,7 +74,10 @@ navs:
   -
     href: /categories/
     label: 分類
-
+  -
+    href: /archives/
+    label: 歸檔
+    mobile-hidden: true
 
   -
     href: /open-source/
