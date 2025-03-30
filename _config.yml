@@ -75,10 +75,6 @@ navs:
     href: /categories/
     label: 分類
 
-  -
-    href: /archives/
-    label: 歸檔
-    mobile-hidden: true
 
   -
     href: /open-source/
@@ -92,11 +88,6 @@ navs:
   -
     href: /wiki/
     label: 维基
-
-  -
-    href: /links/
-    label: 連接
-    mobile-hidden: true
 
   -
     href: /about/
