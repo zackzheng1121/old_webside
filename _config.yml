@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://zackzheng1121.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: zackzheng的小基地
+subtitle: "zackzheng的小基地"
+description: "只是一個學生的部落格"
+keywords: zackzheng
+timezone: Asia/Taipei
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2025
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: zackzheng1121/zackzheng1121.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Zackzheng
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: zackzheng1121
+location: Taiwan,New Taipei
+email: zackzheng.1121@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -70,20 +70,19 @@ email: chumpma@gmail.com
 navs:
   -
     href: /
-    label: 首页
-
+    label: 首頁
   -
     href: /categories/
-    label: 分类
+    label: 分類
 
   -
     href: /archives/
-    label: 归档
+    label: 歸檔
     mobile-hidden: true
 
   -
     href: /open-source/
-    label: 开源
+    label: 開源
     mobile-hidden: true
 
   -
@@ -96,12 +95,12 @@ navs:
 
   -
     href: /links/
-    label: 链接
+    label: 連接
     mobile-hidden: true
 
   -
     href: /about/
-    label: 关于
+    label: 關於我
 
 # ---------------- #
 #       RSS        #
@@ -165,29 +164,29 @@ disqus:
     username: 
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: 
+    repo: 
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 
+        client_secret: 
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: 
+    repo: 
+    clientID: 
+    clientSecret: 
 # utterances 配置参考：https://utteranc.es/
 utterances:
-    repo: mzlogin/blog-comments
+    repo: 
 # beaudar 配置参考：https://beaudar.lipk.org/
 beaudar:
-    repo: mzlogin/blog-comments
+    repo:
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
-    category: Announcements
-    category-id: DIC_kwDOBY0E7c4CRtg9
+    repo: 
+    repo-id: 
+    category: 
+    category-id: 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -204,7 +203,7 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: # G-20FLEG5Q2W
+    analytics_id:
     adsense:
         enabled: true
         footer: true
