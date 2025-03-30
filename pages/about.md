@@ -1,20 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 只是一個會c#的貓
+keywords: Zackzheng
 comments: true
-menu: 关于
+menu: 關於我
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是zackzheng，一個學生，目前會一點C#，其他的語言則在持續努力學習中!
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
-
-## 联系
+## 聯繫我
 
 <ul>
 {% for website in site.data.social %}
@@ -22,9 +18,6 @@ permalink: /about/
 {% endfor %}
 {% if site.url contains 'mazhuang.org' %}
 <li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
 {% endif %}
 </ul>
 
