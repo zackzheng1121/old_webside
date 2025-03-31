@@ -24,11 +24,11 @@ components:
     # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     share:
         enabled: true
-        hide-platforms: facebook
+        hide-platforms: 
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-05-03
+        start_date: 2025-03-30
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -111,7 +111,7 @@ index:
         # 首页导航栏文字颜色
         nav-color: "rgba(255, 255, 255, .5)"
         # 首页 banner 区背景颜色
-        background-color: "#14decd"
+        background-color: "#0ba380"
         # 首页 banner 区背景图片
         # background-image: "/assets/images/octicons-bg.png"
         # background-repeat: "no-repeat"
@@ -177,10 +177,10 @@ beaudar:
     repo:
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: 
-    repo-id: 
-    category: 
-    category-id: 
+    repo: zackzheng1121/zackzheng1121.github.io
+    repo-id: R_kgDOOQvhUQ
+    category: General	
+    category-id: DIC_kwDOOQvhUc4Comh6
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
