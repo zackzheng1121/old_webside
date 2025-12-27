@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://zackzheng1121.github.io/old_webside/
+url: https://zackzheng1121.github.io/old_webside
 date_format: "ordinal"
 title: zackzheng的小基地
 subtitle: "zackzheng的小基地"
