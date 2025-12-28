@@ -2,5 +2,5 @@
 
 筆記那些之後會同步到新網站，但舊的網站不會有新筆記
 
-如果想懷舊這裡有連結:zackzheng1121.github.io/old_webside
+如果想懷舊這裡有連結:zack.siiway.org/old_webside
                     
